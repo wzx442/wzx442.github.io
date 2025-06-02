@@ -51,9 +51,12 @@ My name is Zhongxiao Wang, and I am pursuing a Master's degree at Qingdao Univer
 - *2024.09 - 2025.06 (now)*, College of Computer Science and Technology, Qingdao University, Qingdao 266071, China.
 - *2020.09 - 2024.06*, College of Computer Science and Technology, Qingdao University, Qingdao 266071, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💕 Interests
+- Cycling 🚴‍♂️
+- Music 🎶
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lo -->
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
